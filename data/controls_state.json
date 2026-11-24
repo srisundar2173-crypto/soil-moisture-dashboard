@@ -1,0 +1,7 @@
+{
+  "plant_type": "General Houseplant",
+  "moisture_threshold": 45,
+  "auto_irrigate_enabled": true,
+  "manual_water_pulse": false,
+  "updated_at": "2026-11-24T16:16:34"
+}
